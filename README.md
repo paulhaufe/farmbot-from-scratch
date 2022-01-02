@@ -11,5 +11,5 @@ You will need to manufacture a few PCBs.
 * Universal Tool Mount PCB
 
 ### Manuals
-* [Electronics Box guide](/guides/electronics-box/readme.md)
-* [Stepper motor guide](/guides/stepper-motor/readme.md)
+* [Electronics Box guide](/guides/electronics-box/README.md)
+* [Stepper motor guide](/guides/stepper-motor/README.md)
