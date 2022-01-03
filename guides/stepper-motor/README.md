@@ -22,16 +22,29 @@ Only those listed with best price-performance relationship and minimum order qua
 |Step Angle|1.8deg / 200 steps per revolution|1.8deg / 200 steps per revolution|1.8deg / 200 steps per revolution|
 |Holding Torque|77 oz. in|63.7 oz. in|79.3 oz. in|
 |Rated Current/phase|1.68A|1.5A|2.0A|
-|Rated Voltage *|2.8 VDC|2.8 VDC|2.8 VDC|
+|Rated Voltage *|2.8 VDC|2.8 VDC?|2.8 VDC|
 |Frame Size|42 x 42mm|42 x 42mm|42 x 42mm|
 |Body Length|48mm motor (+ 13mm encoder) |43.5mm|51.5mm|
 |Shaft Dianter|5mm|5mm|5mm|
 |Shaft Length|24mm|24mm|24mm|
 |Weight|0.35kg|0.3kg|0.4kg|
+|Motor Connector|
 |Encoder Output Circuit Type|Differential|Differential|Differential
 |Encoder Type|Incremental Optical|Incremental Magnetic|Incremental Magnetic|
 |Encoder Resolution|max. 2.500 PPR|max. 1.000 PPR|max. 1.000 PPR|
 |Encoder Output Channels|3 channels|3 channels|3 channels|
+|Encoder Connector|
 |Encoder Supply Voltage|4.5 - 5.5 VDC|3.3 - 5.5. VDC|3.3 - 5.5. VDC|
 
 \* Please note, steppers are current-driven devices. That means the rated voltage is specifying the minimum voltage needed to move a stepper. It is not the maximum voltage. Usually steppers are operated with driving voltages between 12 and 24 VDC.
+
+## Assembly of motor cables
+
+your are going to manufacture five motor cables. 
+
+### Connect th
+
+Motor Farmduino side: https://www.mouser.de/ProductDetail/538-50-57-9404
+
+Encoder Farmduino SIde: https://www.mouser.de/ProductDetail/Molex/50-57-9407
+### Endoder Cables
