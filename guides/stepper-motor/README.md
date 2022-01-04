@@ -40,7 +40,19 @@ Only those listed with best price-performance relationship and minimum order qua
 
 ## Assembly of motor cables
 
-your are going to manufacture five motor cables. 
+you are going to manufacture [four motor cables](https://genesis.farm.bot/v1.6/bom/electronics-and-wiring/motor-cable#).
+
+* 3 x motor-to-Farmduino cables of different lengths; ```X1```, ```X2```, ```Y```
+* 1 x motor-to-Farmduino cable split into two parts; ```ZY``` + ```ZZ```
+
+BOM
+
+|Item|Amount|Description|Source|
+|-|-|-|-|
+|Cable|1|```4 x 18 AWG (0.823mm²)```, about ```11m``` length, meant for permanent outdoor use <br/>In Europe: harmonized cable ```H05RN-F``` or ```H07RN-F``` made from rubber with ```4 x 0.75mm²``` diameter|Home store / Online shop|
+|Farmduino Connector|4|SL Crimp Housing, Single Row, Version G, Positive Latch, ```4``` Circuits, Black |[Mouser](https://www.mouser.de/ProductDetail/538-50-57-9404), Digi-Key, etc.|
+|Motor connector, option 1|4|Assuming motor comes with open end cable, you need an ```M20 IP68``` waterproof cable connector|
+|Motor connector, option 2|4|Assuming motor comes with open end cable, you can crimp the cable with watertight heat shrink butt connectors; requires special crimp tool and a random heat gun|
 
 ### Connect th
 
