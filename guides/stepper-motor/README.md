@@ -47,16 +47,9 @@ you are going to manufacture [four motor cables](https://genesis.farm.bot/v1.6/b
 
 BOM
 
-|Item|Amount|Description|Source|
-|-|-|-|-|
-|Cable|1|```4 x 18 AWG (0.823mm²)```, about ```11m``` length, meant for permanent outdoor use <br/>In Europe: harmonized cable ```H05RN-F``` or ```H07RN-F``` made from rubber with ```4 x 0.75mm²``` diameter|Home store / Online shop|
-|Farmduino Connector|4|SL Crimp Housing, Single Row, Version G, Positive Latch, ```4``` Circuits, Black |[Mouser](https://www.mouser.de/ProductDetail/538-50-57-9404), Digi-Key, etc.|
-|Motor connector, option 1|4|Assuming motor comes with open end cable, you need an ```M20 IP68``` waterproof cable connector|
-|Motor connector, option 2|4|Assuming motor comes with open end cable, you can crimp the cable with watertight heat shrink butt connectors; requires special crimp tool and a random heat gun|
-
-### Connect th
-
-Motor Farmduino side: https://www.mouser.de/ProductDetail/538-50-57-9404
-
-Encoder Farmduino SIde: https://www.mouser.de/ProductDetail/Molex/50-57-9407
-### Endoder Cables
+|Item|Amount|Description|Outdoor use (if applicable)|Source|
+|-|-|-|-|-|
+|Cable|1|```4 x 18 AWG (0.823mm²)```, about ```11m``` length, ```4x0.75mm²``` diameter|<ul><li>harmonized cable ```H05RN-F``` or ```H07RN-F``` made from rubber or</li><li>standardized UV-resistant PVC control cables ```YSLY-OZ``` or ```YSLY-JZ``` cable</li>|Home store / Online shop, e.g. LAPP ÖLFLEX® CLASSIC BLACK 110|
+|Farmduino Connector|4|SL Crimp Housing, Single Row, Version G, Positive Latch, ```4``` Circuits, Black |electronics box for housing the Farmduino should be watertight|[Mouser](https://www.mouser.de/ProductDetail/538-50-57-9404), Digi-Key, etc.|
+|Motor connector, option 1|4|Assuming motor comes with open end cable, use an ```M20``` cable connector| ```M20 IP68``` waterproof cable connector|Home store / online shop|
+|Motor connector, option 2|4|Assuming motor comes with open end cable, you can crimp the cable with heat shrink butt connectors; requires special crimp tool and a random heat gun|use watertight shrink butt connectors|Home store / online shop|
