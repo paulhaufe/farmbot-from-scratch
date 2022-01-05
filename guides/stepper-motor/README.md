@@ -49,7 +49,7 @@ BOM
 
 |Item|Amount|Description|Outdoor use (if applicable)|Source|
 |-|-|-|-|-|
-|Cable|1|```4 x 18 AWG (0.823mm²)```, about ```11m``` length, ```4x0.75mm²``` diameter<img src="motor-cable.jpg" width="350px">|<ul><li>harmonized cable ```H05RN-F``` or ```H07RN-F``` made from rubber or</li><li>standardized UV-resistant PVC control cables ```YSLY-OZ``` or ```YSLY-JZ``` cable</li>|Home store / Online shop, e.g. LAPP ÖLFLEX® CLASSIC BLACK 110|
-|Farmduino Connector|4|SL Crimp Housing, Single Row, Version G, Positive Latch, ```4``` Circuits, Black<img src="motor-molex.jpg" width="350px">|electronics box housing the Farmduino should be waterproof|[Mouser](https://www.mouser.de/ProductDetail/538-50-57-9404), Digi-Key, etc.|
+|Cable|1|```4 x 18 AWG (0.823mm²)``` or metric alternative ```4x0.75mm²``` diameter, about ```11m``` length<img src="motor-cable.jpg" width="350px">|<ul><li>harmonized cable ```H05RN-F``` or ```H07RN-F``` made from rubber or</li><li>standardized UV-resistant PVC control cables ```YSLY-OZ``` or ```YSLY-JZ``` cable</li>|Home store / Online shop, e.g. LAPP ÖLFLEX® CLASSIC BLACK 110|
+|Farmduino Connector|4|SL Crimp Housing, Single Row, Version G, Positive Latch, ```4``` Circuits, Black<img src="motor-molex.jpg" width="350px">|electronics box housing the Farmduino should be waterproof|check out [Octopart](https://octopart.com/search?q=538-50-57-9404&currency=USD&specs=0), usually Mouser or DigiKey because MOQ = 1
 |Motor connector, option 1|4|Assuming motor comes with open end cable, use an ```M20``` cable connector<img src="cable-connector.jpg" width="350px">| ```M20 IP68``` waterproof cable connector|Home store / online shop|
 |Motor connector, option 2|4|Assuming motor comes with open end cable, you can crimp the cable with heat shrink butt connectors; requires special crimp tool and a random heat gun<img src="butt-connector.jpg" width="350px">|use watertight shrink butt connectors|Home store / online shop|
