@@ -11,4 +11,4 @@ You won't need a sophisticated box that looks exactly like [the one from Farmbot
 |Standoffs|Torx, M2.5 thread, 10mm length, Receptable-to-Receptable,stainless steal or brass|8|![standoff](/guides/electronics-box/standoff.jpg)|Online retailer or home store|
 |Screws|Socket head cap screw, Torx, M2.5 thread, 20mm thread length, stainless steal|8|![screw](/guides/electronics-box/screw.jpg)|Online retailer or home store|
 |Lock nuts|Nylon lock nut, Torx, M2.5 thread, stainless steal with nylon insert for waterproof and heat-resistance|8|![locknut](/guides/electronics-box/locknut.jpg)|Online retailer or home store|
-|Tool|Torx M2.5 Screw Driver|1|![screwdriver](/guides/electronics-box/screw.jpg)|Online retailer or home store|
+|Tool|Torx M2.5 Screw Driver|1|![screwdriver](/guides/electronics-box/torx.jpg)|Online retailer or home store|
