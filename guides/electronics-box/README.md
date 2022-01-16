@@ -8,6 +8,7 @@ You won't need a sophisticated box that looks exactly like [the one from Farmbot
 |Part|Description|Amount|Example Part|Source|
 |-|-|-|-|-|
 |Universal enclosure|An enclosure with dimensions of approx. 300 x 200 x 100 mm (L x W x H)|1|Plastic Enclosure by Box4U, SKU 4U63281910019<br/>![box](/guides/electronics-box/box.jpg)|[Octopart](https://octopart.com/search?q=4U63281910019)|
-|Standoffs|M2.5 thread, 10mm length, Receptable-to-Receptable,stainless steal or brass|8|![standoff](/guides/electronics-box/standoff.jpg)|Online retailer or home store|
-|Screws|Socket head cap screw, M2.5 thread, 20mm thread length, stainless steal|8|![screw](/guides/electronics-box/screw.jpg)|Online retailer or home store|
-|Lock nuts|Nylon lock nut, M2.5 thread, stainless steal with nylon insert for waterproof and heat-resistance|8|![locknut](/guides/electronics-box/locknut.jpg)|Online retailer or home store|
+|Standoffs|Torx, M2.5 thread, 10mm length, Receptable-to-Receptable,stainless steal or brass|8|![standoff](/guides/electronics-box/standoff.jpg)|Online retailer or home store|
+|Screws|Socket head cap screw, Torx, M2.5 thread, 20mm thread length, stainless steal|8|![screw](/guides/electronics-box/screw.jpg)|Online retailer or home store|
+|Lock nuts|Nylon lock nut, Torx, M2.5 thread, stainless steal with nylon insert for waterproof and heat-resistance|8|![locknut](/guides/electronics-box/locknut.jpg)|Online retailer or home store|
+|Tool|Torx M2.5 Screw Driver|1|![screwdriver](/guides/electronics-box/screw.jpg)|Online retailer or home store|
